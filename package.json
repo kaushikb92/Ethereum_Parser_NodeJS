@@ -1,0 +1,25 @@
+{
+  "name": "ethereum_parser_nodejs",
+  "version": "1.0.0",
+  "description": "Parse Ethereum Blockchain Blocks' metadata using Node.JS and store in MondoDB instance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushikb92/Ethereum_Parser_NodeJS.git"
+  },
+  "keywords": [
+    "Node.JS",
+    "Ethereum",
+    "MongoDb",
+    "Mongoose"
+  ],
+  "author": "kAbAk0n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushikb92/Ethereum_Parser_NodeJS/issues"
+  },
+  "homepage": "https://github.com/kaushikb92/Ethereum_Parser_NodeJS#readme"
+}
